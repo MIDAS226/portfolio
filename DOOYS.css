@@ -6,7 +6,7 @@
 
 body {
     font-family:'Georgia',serif;
-    background-color:Mid-night-blue;
+    background-color:#14213D;
     color:White;
     line-height: 1.6;
 }
@@ -67,7 +67,7 @@ main section {
 }
 
 main section h2 {
-    color:Orange;
+    color:#FCA311;
     font-size:40px;
     margin-bottom:20px;
 }
@@ -94,7 +94,7 @@ main div article {
 }
 
 main div article h3 {
-    color:Orange;
+    color:#FCA311;
     font-size:29;
     margin-bottom:10px;
     min-height:40px;
@@ -105,7 +105,7 @@ main div article a img {
     height:100px;
     border-radius:8px;
     object-fit:cover;
-    background-color:Light-gray;
+    background-color:#E5E5E5;
     padding:5px;
     transition:transform 0.4s;
 }
@@ -116,7 +116,7 @@ main div article a img:hover {
 
 main div article > a:last-of-type {
     display:inline-block;
-    background-color:Orange;
+    background-color:#FCA311;
     color:Black;
     font-weight:bold;
     padding:8px 15px;
@@ -129,7 +129,7 @@ main div article > a:last-of-type {
 }
 
 main div article > a:last-of-type:hover {
-    background-color:Orange;
+    background-color:#FCA311;
 }
 
 main article {
@@ -140,7 +140,7 @@ main article {
 }
 
 main article h2 {
-    background-color:Light-gray;
+    background-color:#E5E5E5;
     color:#FCA311;
     padding:15px 40px;
     border-radius:20px;
@@ -153,13 +153,13 @@ main article img {
     width:200px;
     height:200px;
     border-radius:10px;
-    background-color:Light-gray;
+    background-color:#E5E5E5;
     padding:10px;
     margin-bottom:20px;
 }
 
 main article h3 {
-    color:Orange;
+    color:#FCA311;
     font-size:19px;
     margin-top:25px;
     margin-bottom:5px;
